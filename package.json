@@ -18,7 +18,7 @@
     "react-router-dom": "^4.3.1",
     "redux": "^4.0.5",
     "redux-saga": "^0.16.2",
-    "set-value": "^3.0.1",
+    "set-value": "^4.0.1",
     "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
